@@ -42,7 +42,7 @@ The three js code functions seperatly:
 
 ## Contributing
 
-Please read [README.md](https://github.com/Jinggyu/News-to-noise_generator/blob/master/README.md) for details, feel free for submitting pull requests to me. ヽ( ・∀・)ノ★*"`'*-.,_,.-*'`"*-.,_
+Please read [README.md](https://github.com/Jinggyu/News-to-noise_generator/blob/master/README.md) for details, feel free for submitting pull requests to me ヽ( ・∀・)ノ★*"`'*-.,_,.-*'`"*-.,_
 
 
 ## Authors & References

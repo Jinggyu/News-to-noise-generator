@@ -23,7 +23,7 @@ The three js code functions seperatly:
 ### Installing
 Run web.html using Local server. Here are two simple options:
 
-**|Python 2|** <br /> 
+**|Python 2|:** 
 Typing in terminal:
 ```
 python -m SimpleHTTPServer
@@ -32,7 +32,7 @@ python -m SimpleHTTPServer
 Then visit: http://localhost:8000
 <br /> <br /> 
 
-**|Node|** <br /> 
+**|Node|:** 
 Typing in terminal: 
 ```
 npm install -g http-server

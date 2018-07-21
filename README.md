@@ -21,18 +21,18 @@ The three js code functions seperatly:
 
 * Run web.html using Local server. Here are two simple options:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Python 2|:** 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typing in terminal:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Python 2|:** 
+&nbsp;&nbsp;&nbsp;Typing in terminal:
 &nbsp;```python -m SimpleHTTPServer```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then visit: http://localhost:8000
 <br /> <br /> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Node|:** 
-&nbsp;&nbsp;&nbsp;&nbsp;Typing in terminal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Node|:** 
+&nbsp;&nbsp;&nbsp;Typing in terminal: 
 &nbsp;```npm install -g http-server```. 
 &nbsp;&nbsp; Then cd to the folder and type:
-&nbsp;&nbsp;```http-server```
+&nbsp;```http-server```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visit: http://localhost:8080/
 

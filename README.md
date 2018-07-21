@@ -19,7 +19,7 @@ The three js code functions seperatly:
 ## Prerequisites & Installing
 * To run speech.js, install [say.js](https://github.com/Marak/say.js) and [node.js](https://nodejs.org/en/). Follow the [Instruction](https://github.com/Marak/say.js)
 
-* Run web.html using Local server. Here are two simple options:
+* Run web.html using Local Server. Here are two simple options:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Python 2|:** 
 &nbsp;&nbsp;&nbsp;Typing in terminal:
@@ -47,7 +47,7 @@ Please read [README.md](https://github.com/Jinggyu/News-to-noise_generator/blob/
 
 ## Authors & References
  * Built by Jing Yu 
- * Using [Say.js](https://github.com/Marak/say.js) 
+ * Using [say.js](https://github.com/Marak/say.js) 
  * Refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/) of API & P5.js
 
 

@@ -47,7 +47,7 @@ Please read [README.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426
 
 ## Authors & References
  * Built by Jing Yu 
- * Using [Say.js](https://github.com/Marak/say.js); 
+ * Using [Say.js](https://github.com/Marak/say.js) 
  * Refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/) of API & P5.js
 
 

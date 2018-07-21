@@ -36,8 +36,8 @@ The three js code functions seperatly:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visit: http://localhost:8080/
 
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More info.: https://github.com/processing/p5.js/wiki/Local-server
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More info.: https://github.com/processing/p5.js/wiki/Local-server
 <br />
 
 ## Contributing

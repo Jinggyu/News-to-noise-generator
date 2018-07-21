@@ -31,8 +31,8 @@ The three js code functions seperatly:
 &nbsp;&nbsp;&nbsp;&nbsp;**|Node|:** 
 &nbsp;&nbsp;&nbsp;&nbsp;Typing in terminal: 
 &nbsp;&nbsp;&nbsp;```npm install -g http-server```
-&nbsp;&nbsp;Then cd to the folder and type:
-&nbsp;&nbsp；&nbsp;&nbsp;```http-server```
+&nbsp;&nbsp;<br /> Then cd to the folder and type:
+&nbsp;&nbsp;&nbsp;&nbsp;```http-server```
 
 &nbsp;&nbsp;&nbsp;&nbsp;Visit: http://localhost:8080/
 

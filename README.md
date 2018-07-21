@@ -12,12 +12,12 @@ This is a real-time implementation simply transfers web contents (New York times
 
 ## Getting Started
 The three js code functions seperatly:
-* **speech.js：** transfer local .txt to audio files on your computer (check out the [applicable platform](https://github.com/Marak/say.js))
+* **speech.js：** transfer local .txt to audio files on your computer (check out the [Applicable platform](https://github.com/Marak/say.js))
 * **project.js:** &nbsp;&nbsp;is the main code that generates texts via API as well as does audio processing (sound composition) 
 * **clear.js:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help to clear caches (if needed)
 
 ## Prerequisites & Installing
-* To run speech.js, installing say.js and node.js. Follow the [instruction](https://github.com/Marak/say.js)
+* To run speech.js, installing say.js and node.js. Follow the [Instruction](https://github.com/Marak/say.js)
 
 * Run web.html using Local server. Here are two simple options:
 

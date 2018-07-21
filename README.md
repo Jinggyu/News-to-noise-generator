@@ -23,21 +23,21 @@ The three js code functions seperatly:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Python 2|:** 
 &nbsp;&nbsp;&nbsp;Typing in terminal:
-&nbsp;```python -m SimpleHTTPServer```
+```python -m SimpleHTTPServer```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then visit: http://localhost:8000
 <br /> <br /> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Node|:** 
 &nbsp;&nbsp;&nbsp;Typing in terminal: 
-&nbsp;```npm install -g http-server```. 
+```npm install -g http-server```. 
 &nbsp;&nbsp; Then cd to the folder and type:
-&nbsp;```http-server```
+```http-server```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visit: http://localhost:8080/
 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Also you can follow the step: https://github.com/processing/p5.js/wiki/Local-server
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also you can follow the step: https://github.com/processing/p5.js/wiki/Local-server
 <br />
 
 ## Contributing

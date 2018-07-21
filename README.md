@@ -54,9 +54,9 @@ Please read [README.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426
 
 
 ## Authors & References
- Jing Yu & refer to:
- [Say.js](https://github.com/Marak/say.js); 
- Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/)
+ * Built by Jing Yu 
+ * Using [Say.js](https://github.com/Marak/say.js); 
+ * Refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/)
 
 
 ## Acknowledgments

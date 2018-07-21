@@ -7,7 +7,7 @@ This is a real-time implementation simply captures web contents (New York times 
 
 ## Built With
 * [P5.js](https://p5js.org/) 
-   and Javascript
+* Javascript
 
 ## Getting Started
 

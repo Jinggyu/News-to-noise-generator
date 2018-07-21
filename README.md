@@ -16,7 +16,7 @@ The three js code functions seperatly:
 * **project.js:** &nbsp;&nbsp;is the main code that generates texts via API as well as does audio processing (sound composition) 
 * **clear.js:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help to clear caches (if needed)
 
-### Prerequisites & Installing
+## Prerequisites & Installing
 * To run speech.js, installing say.js and node.js. Follow the [instruction](https://github.com/Marak/say.js)
 
 * Run web.html using Local server. Here are two simple options:

@@ -42,7 +42,7 @@ The three js code functions seperatly:
 
 ## Contributing
 
-Please read [README.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to me. :-P
+Please read [README.md](https://github.com/Jinggyu/News-to-noise_generator/blob/master/README.md) for details on our code of conduct, and the process for submitting pull requests to me. :-P
 
 
 ## Authors & References

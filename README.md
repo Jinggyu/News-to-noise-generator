@@ -45,7 +45,7 @@ http-server
 Then visit: http://localhost:8080/
 
 <br />
-Also you can follow the step [here](https://github.com/processing/p5.js/wiki/Local-server)
+Also you can follow the [step](https://github.com/processing/p5.js/wiki/Local-server)
 <br /><br />
 
 ## Contributing
@@ -56,7 +56,7 @@ Please read [README.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426
 ## Authors & References
  * Built by Jing Yu 
  * Using [Say.js](https://github.com/Marak/say.js); 
- * Refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/)
+ * Refer to Daniel Shiffman's API&P5.js's [tutorial](https://shiffman.net/a2z/data-apis/)
 
 
 ## Acknowledgments

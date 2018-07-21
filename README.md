@@ -21,29 +21,26 @@ The three js code functions seperatly:
 
 * Run web.html using Local server. Here are two simple options:
 
-**|Python 2|:** 
-Typing in terminal:
-```
-python -m SimpleHTTPServer
-```
+&nbsp;&nbsp;**|Python 2|:** 
+&nbsp;&nbsp;Typing in terminal:
+&nbsp;&nbsp;```
+python -m SimpleHTTPServer```
 
-Then visit: http://localhost:8000
+&nbsp;&nbsp;Then visit: http://localhost:8000
 <br /> <br /> 
 
-**|Node|:** 
-Typing in terminal: 
-```
-npm install -g http-server
-```
-Then cd to the folder and type:
-```
-http-server
-```
+&nbsp;&nbsp;**|Node|:** 
+&nbsp;&nbsp;Typing in terminal: 
+&nbsp;&nbsp;```
+npm install -g http-server```
+&nbsp;&nbsp;Then cd to the folder and type:
+&nbsp;&nbsp;```
+http-server```
 
-Then visit: http://localhost:8080/
+&nbsp;&nbsp;Then visit: http://localhost:8080/
 
 <br />
-Also you can follow the step: https://github.com/processing/p5.js/wiki/Local-server
+&nbsp;&nbsp;Also you can follow the step: https://github.com/processing/p5.js/wiki/Local-server
 <br />
 
 ## Contributing

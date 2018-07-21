@@ -9,8 +9,7 @@ This is a real-time implementation simply captures web contents (New York times 
 * [P5.js](https://p5js.org/) 
 * [Say.js](https://github.com/Marak/say.js)
 * [Node.js](https://nodejs.org/en/)
-* [javascript](https://www.javascript.com/)
- 
+
 
 ## Getting Started
 

@@ -7,7 +7,6 @@ This is a real-time implementation simply captures web contents (New York times 
 
 ## Built With
 * [P5.js](https://p5js.org/) 
-* [Say.js](https://github.com/Marak/say.js)
 * [Node.js](https://nodejs.org/en/)
 
 
@@ -79,7 +78,7 @@ This is a project made for an art exhibition at TAIKANG SPACE.
 ## Authors
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
+* [Say.js](https://github.com/Marak/say.js)
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License

@@ -18,7 +18,7 @@ The three js code functions seperatly:
 
 ### Prerequisites
 * To run speech.js, installing say.js and node.js. Follow the [instruction](https://github.com/Marak/say.js)
-* Note the saving/reading directory 
+* Note choose the correct saving/reading directory 
 
 ### Installing
 Run web.html using Local server. Here are two simple options:
@@ -29,7 +29,7 @@ Typing in terminal:
 python -m SimpleHTTPServer
 ```
 <br />
-Then visit: [http://localhost:8000](http://localhost:8000)
+Then visit: http://localhost:8000
 <br /> <br /> <br />
 
 * **|Node|**
@@ -42,11 +42,11 @@ Then cd to the folder and type:
 http-server
 ```
 <br />
-Then visit: [http://localhost:8080/](http://localhost:8080/)
+Then visit: http://localhost:8080/
 
-<br /><br />
+<br />
 Also you can follow the step [here](https://github.com/processing/p5.js/wiki/Local-server)
-<br /><br /><br /><br />
+<br /><br />
 
 ## Contributing
 

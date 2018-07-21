@@ -24,18 +24,15 @@ The three js code functions seperatly:
 ### Installing
 Run web.html using Local server. Here are two simple options:
 
-|Python 2|  Typing in terminal:
+* |Python 2|:  Typing in terminal:
 ```
 python -m SimpleHTTPServer
 ```
-then visit
+then visit: http://localhost:8000
 
-```
-http://localhost:8000
-```
 OR,
 
-|Node| Typing in terminal: 
+* |Node|: Typing in terminal: 
 ```
 npm install -g http-server
 ```
@@ -43,10 +40,8 @@ then cd to the folder and type:
 ```
 http-server
 ```
-then visit 
-```
-http://localhost:8080/
-```
+then visit: http://localhost:8080/
+
 
 Also you can follow the step [here](https://github.com/processing/p5.js/wiki/Local-server)
 

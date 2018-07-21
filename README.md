@@ -17,7 +17,7 @@ The three js code functions seperatly:
 * **clear.js:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help to clear caches (if needed)
 
 ## Prerequisites & Installing
-* To run speech.js, installing say.js and node.js. Follow the [Instruction](https://github.com/Marak/say.js)
+* To run speech.js, installing [say.js]((https://github.com/Marak/say.js)) and [node.js](https://nodejs.org/en/). Follow the [Instruction](https://github.com/Marak/say.js)
 
 * Run web.html using Local server. Here are two simple options:
 

@@ -26,7 +26,7 @@ The three js code functions seperatly:
 ```python -m SimpleHTTPServer```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then visit: http://localhost:8000
-<br /> <br /> 
+<br /> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Node|:** 
 &nbsp;&nbsp;&nbsp;Typing in terminal: 
@@ -35,7 +35,7 @@ The three js code functions seperatly:
 ```http-server```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visit: http://localhost:8080/
-<br />
+<br /> <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|OR|** follow the step here: https://github.com/processing/p5.js/wiki/Local-server
 <br />

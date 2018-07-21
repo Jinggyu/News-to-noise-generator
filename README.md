@@ -1,12 +1,15 @@
 
 # News-to-noise_generator
-This is a real-time implementation simply captures web contents (New York times articles), transfers them to speech voice, and composing the generated speech to noise-like/texture sound. The generated speech are real-timely layered with orders (according to its posting time) and dissolved until the sound lost it's semantics. 
+This is a real-time implementation simply captures web contents (New York times articles), transfers them to speech voice, and composing the generated speech to noise-like/texture sound. The generated speech are real-timely layered in orders (according to its posting time) and dissolved until the sound lost it's semantics. 
+
+<img width="476" alt="simple_chart" src="https://user-images.githubusercontent.com/41480919/43035246-5724dcd0-8cba-11e8-9b2f-f1b1ed77c88f.png">
 
 
 ## Built With
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [P5.js](https://p5js.org/) 
+* [Say.js](https://github.com/Marak/say.js)
+* [Node.js](https://nodejs.org/en/)
+* [javascript](https://www.javascript.com/)
  
 
 ## Getting Started

@@ -28,19 +28,19 @@ Run web.html using Local server. Here are two simple options:
 ```
 python -m SimpleHTTPServer
 ```
-then visit: http://localhost:8000
+Then visit: http://localhost:8000
 
-OR,
+OR
 
 * |Node|: Typing in terminal: 
 ```
 npm install -g http-server
 ```
-then cd to the folder and type:
+Then cd to the folder and type:
 ```
 http-server
 ```
-then visit: http://localhost:8080/
+Then visit: http://localhost:8080/
 
 
 Also you can follow the step [here](https://github.com/processing/p5.js/wiki/Local-server)

@@ -25,7 +25,7 @@ The three js code functions seperatly:
 &nbsp;&nbsp;&nbsp;Typing in terminal:
 ```python -m SimpleHTTPServer```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then visit: http://localhost:8000
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then visit: http://localhost:8000
 <br /> <br /> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Node|:** 

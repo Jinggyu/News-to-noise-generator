@@ -6,7 +6,6 @@ This is a real-time implementation simply transfers web contents (New York times
 <img width="476" alt="simple_chart" src="https://user-images.githubusercontent.com/41480919/43035246-5724dcd0-8cba-11e8-9b2f-f1b1ed77c88f.png">
 
 
-
 ## Built With
 * [P5.js](https://p5js.org/) 
 * Javascript
@@ -24,15 +23,16 @@ The three js code functions seperatly:
 ### Installing
 Run web.html using Local server. Here are two simple options:
 
-* |Python 2|
+* **|Python 2|**
 Typing in terminal:
 ```
 python -m SimpleHTTPServer
 ```
+<br />
 Then visit: http://localhost:8000
+<br /> <br /> <br />
 
-
-* |Node|
+* **|Node|**
 Typing in terminal: 
 ```
 npm install -g http-server
@@ -41,58 +41,24 @@ Then cd to the folder and type:
 ```
 http-server
 ```
+<br />
 Then visit: http://localhost:8080/
 
-
+<br /><br />
 Also you can follow the step [here](https://github.com/processing/p5.js/wiki/Local-server)
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [README.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to me. :-P
 
-## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-This is a project made for an art exhibition at TAIKANG SPACE.
+## Authors & References
+* This project is built by Jing Yu
+* for speech.js, we use [Say.js](https://github.com/Marak/say.js)
+* for API & P5.js stuff, this project refers to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/)
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* [Say.js](https://github.com/Marak/say.js)
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+The project is made for an art exhibition at TAIKANG SPACE.

@@ -28,7 +28,7 @@ Typing in terminal:
 ```
 python -m SimpleHTTPServer
 ```
-<br />
+
 Then visit: http://localhost:8000
 <br /> <br /> <br />
 
@@ -41,10 +41,10 @@ Then cd to the folder and type:
 ```
 http-server
 ```
-<br />
+
 Then visit: http://localhost:8080/
 
-<br />
+<br /><br />
 Also you can follow the step [here](https://github.com/processing/p5.js/wiki/Local-server)
 <br /><br />
 

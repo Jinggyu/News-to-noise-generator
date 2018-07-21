@@ -55,8 +55,10 @@ Please read [README.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426
 
 ## Authors & References
 * This project is built by Jing Yu
-* For speech.js, we use [Say.js](https://github.com/Marak/say.js)
-* For API & P5.js stuff, refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/)
+
+Refer to: 
+* [Say.js](https://github.com/Marak/say.js)
+*  Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/)
 
 
 ## Acknowledgments

@@ -29,7 +29,7 @@ Typing in terminal:
 python -m SimpleHTTPServer
 ```
 <br />
-Then visit: http://localhost:8000
+Then visit: [http://localhost:8000](http://localhost:8000)
 <br /> <br /> <br />
 
 * **|Node|**
@@ -42,11 +42,11 @@ Then cd to the folder and type:
 http-server
 ```
 <br />
-Then visit: http://localhost:8080/
+Then visit: [http://localhost:8080/](http://localhost:8080/)
 
 <br /><br />
 Also you can follow the step [here](https://github.com/processing/p5.js/wiki/Local-server)
-
+<br /><br /><br /><br />
 
 ## Contributing
 
@@ -55,8 +55,8 @@ Please read [README.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426
 
 ## Authors & References
 * This project is built by Jing Yu
-* for speech.js, we use [Say.js](https://github.com/Marak/say.js)
-* for API & P5.js stuff, this project refers to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/)
+* For speech.js, we use [Say.js](https://github.com/Marak/say.js)
+* For API & P5.js stuff, refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/)
 
 
 ## Acknowledgments

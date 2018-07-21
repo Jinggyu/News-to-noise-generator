@@ -35,9 +35,9 @@ The three js code functions seperatly:
 ```http-server```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visit: http://localhost:8080/
+<br />
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**OR** follow the step here: https://github.com/processing/p5.js/wiki/Local-server
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|OR|** follow the step here: https://github.com/processing/p5.js/wiki/Local-server
 <br />
 
 ## Contributing

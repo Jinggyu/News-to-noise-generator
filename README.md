@@ -18,12 +18,12 @@ The three js code functions seperatly:
 
 ### Prerequisites
 * To run speech.js, installing say.js and node.js. Follow the [instruction](https://github.com/Marak/say.js)
-* Note choose the correct saving/reading directory 
+* Set the correct saving/reading directory 
 
 ### Installing
 Run web.html using Local server. Here are two simple options:
 
-* **|Python 2|**
+**|Python 2|**
 Typing in terminal:
 ```
 python -m SimpleHTTPServer
@@ -32,7 +32,7 @@ python -m SimpleHTTPServer
 Then visit: http://localhost:8000
 <br /> <br /> <br />
 
-* **|Node|**
+**|Node|**
 Typing in terminal: 
 ```
 npm install -g http-server

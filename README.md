@@ -14,7 +14,7 @@ This is a real-time implementation simply transfers web contents (New York times
 The three js code functions seperatly:
 * **speech.js：** transfer local .txt to audio files on your computer (check out the [Applicable platform](https://github.com/Marak/say.js))
 * **project.js:** &nbsp;&nbsp;is the main code that generates texts via API as well as does audio processing (sound composition) 
-* **clear.js:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help to clear caches (if needed)
+* **clear.js:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help to clean caches (if needed)
 
 ## Prerequisites & Installing
 * To run speech.js, install [say.js](https://github.com/Marak/say.js) and [node.js](https://nodejs.org/en/). Follow the [Instruction](https://github.com/Marak/say.js)
@@ -42,13 +42,13 @@ The three js code functions seperatly:
 
 ## Contributing
 
-Please read [README.md](https://github.com/Jinggyu/News-to-noise_generator/blob/master/README.md) for details, feel free for submitting pull requests to me ヽ( ・∀・)ノ★*"`'*-.,_,.-*'`"*-.,_
+Please read [README.md](https://github.com/Jinggyu/News-to-noise_generator/blob/master/README.md), feel free for submitting pull requests to me ヽ( ・∀・)ノ★*"`'*-.,_,.-*'`"*-.,_
 
 
 ## Authors & References
  * Built by Jing Yu 
  * Using [say.js](https://github.com/Marak/say.js) 
- * Refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/) of API & P5.js
+ * Refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/) of APIs
 
 
 ## Acknowledgments

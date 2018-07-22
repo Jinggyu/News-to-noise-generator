@@ -3,7 +3,7 @@
 This is a real-time implementation simply transfers web contents (New York times articles) to spoken voice, and utilizes the generated speech creating a sound art piece. In this example, the generated speech are real-timely layered in orders (according to its posting time) and dissolved until the sound lost it's semantics. 
 
 ### Structure 
-<img width="476" alt="simple_chart" src="https://user-images.githubusercontent.com/41480919/43035246-5724dcd0-8cba-11e8-9b2f-f1b1ed77c88f.png">
+<img width="476" alt="simple_chart" src="https://user-images.githubusercontent.com/41480919/43041954-6105b8ae-8d3d-11e8-9403-ab73976ecfc6.png">
 
 
 ## Built With

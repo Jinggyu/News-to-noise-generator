@@ -12,8 +12,8 @@ The three js code functions seperatly:
 * **clear.js:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help to clean caches (if needed)
 
 ## Prerequisites & Installing
-* To run speech.js, install [say.js](https://github.com/Marak/say.js) and [node.js](https://nodejs.org/en/). To run project.js, download p5 library. Follow the [Instruction](https://github.com/Marak/say.js)
-
+* To run speech.js, install [say.js](https://github.com/Marak/say.js) and [node.js](https://nodejs.org/en/). Follow the [Instruction](https://github.com/Marak/say.js)
+* project.js uses p5 library. 
 * Run web.html using Local Server. Here are two simple options:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Python 2|:** 

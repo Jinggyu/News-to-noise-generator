@@ -45,6 +45,3 @@ Feel free for submitting pull requests to me ヽ( ・∀・)ノ★*"`'*-.,_,.-*'
  * Refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/) of APIs
 
 
-## Acknowledgments
-
-The project is made for an art exhibition at TAIKANG SPACE.

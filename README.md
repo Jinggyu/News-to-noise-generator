@@ -1,23 +1,18 @@
 
 # News-to-noise_generator
-This is a real-time implementation simply transfers web contents (New York times articles) to spoken voice, and utilizes the generated speech creating a sound art piece. In this example, the generated speech are real-timely layered in orders (according to its posting time) and dissolved until the sound lost it's semantics. 
+The code in this repository was designed for a sound art exhibition; the text content of New York Times articles are translated in real-time to speech (TTS). Generated audio is layered by posting-time and the semantics are lost through each story's dissolution. 
 
 ### Structure 
 <img width="476" alt="simple_chart" src="https://user-images.githubusercontent.com/41480919/43041954-6105b8ae-8d3d-11e8-9403-ab73976ecfc6.png">
 
-
-## Built With
-* [P5.js](https://p5js.org/) 
-* Javascript
-
 ## Getting Started
 The three js code functions seperatly:
 * **speech.js：** transfer local .txt to audio files on your computer (check out the [Applicable platform](https://github.com/Marak/say.js))
-* **project.js:** &nbsp;&nbsp;is the main code that generates texts via API as well as does audio processing (sound composition) 
+* **project.js:** &nbsp;&nbsp;is the main code that generates texts via API as well as does audio processing (sound composition).  
 * **clear.js:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help to clean caches (if needed)
 
 ## Prerequisites & Installing
-* To run speech.js, install [say.js](https://github.com/Marak/say.js) and [node.js](https://nodejs.org/en/). Follow the [Instruction](https://github.com/Marak/say.js)
+* To run speech.js, install [say.js](https://github.com/Marak/say.js) and [node.js](https://nodejs.org/en/). To run project.js, download p5 library. Follow the [Instruction](https://github.com/Marak/say.js)
 
 * Run web.html using Local Server. Here are two simple options:
 
@@ -42,12 +37,11 @@ The three js code functions seperatly:
 
 ## Contributing
 
-Please read [README.md](https://github.com/Jinggyu/News-to-noise_generator/blob/master/README.md), feel free for submitting pull requests to me ヽ( ・∀・)ノ★*"`'*-.,_,.-*'`"*-.,_
+Feel free for submitting pull requests to me ヽ( ・∀・)ノ★*"`'*-.,_,.-*'`"*-.,_
 
 
 ## Authors & References
  * Built by Jing Yu 
- * Using [say.js](https://github.com/Marak/say.js) 
  * Refer to Daniel Shiffman's [tutorial](https://shiffman.net/a2z/data-apis/) of APIs
 
 

@@ -8,12 +8,12 @@ The code in this repository was designed for a sound art exhibition; the text co
 ## Getting Started
 The three js code functions seperatly:
 * **speech.js：** transfer local .txt to audio files on your computer (check out the [Applicable platform](https://github.com/Marak/say.js))
-* **project.js:** &nbsp;&nbsp;is the main code that generates texts via API as well as does audio processing (sound composition).  
+* **newstonoise.js:** &nbsp;&nbsp;is the main code that generates texts via API as well as does audio processing (sound composition).  
 * **clear.js:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help to clean caches (if needed)
 
 ## Prerequisites & Installing
 * To run speech.js, install [say.js](https://github.com/Marak/say.js) and [node.js](https://nodejs.org/en/). Follow the [Instruction](https://github.com/Marak/say.js)
-* project.js uses p5 library. 
+* newstonoise.js uses p5 library. 
 * Run web.html using Local Server. Here are two simple options:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|Python 2|:** 

@@ -3,7 +3,7 @@
 The code in this repository was designed for a sound art exhibition; the text content of New York Times articles are translated in real-time to speech (TTS). Generated audio is layered by posting-time and the semantics are lost through each story's dissolution. 
 
 ### Structure 
-<img width="476" alt="simple_chart" src="https://user-images.githubusercontent.com/41480919/43041954-6105b8ae-8d3d-11e8-9403-ab73976ecfc6.png">
+<img width="476" alt="simple_chart" src="https://user-images.githubusercontent.com/41480919/43262965-dde87bde-90af-11e8-98e4-332320556eb9.png">
 
 ## Getting Started
 The three js code functions seperatly:
